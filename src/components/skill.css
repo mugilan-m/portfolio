@@ -1,0 +1,23 @@
+.img{
+    width:500px;
+    height: 500px;
+}
+.d{
+    transform: translateY(200px);
+    margin-left: 300px;
+
+}
+.h1 {
+   
+    background: -webkit-linear-gradient(rgb(78, 241, 238), #333);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+.b{
+    transform: translateY(29px);
+    margin-left: 700px;
+}
+.s{
+    transform: translateY(160px);
+    margin-left: 600px;
+}

@@ -1,0 +1,136 @@
+.photo{
+    width: 400px;
+    height: 500px;
+    border-radius: 30px;
+    margin-top: -1000px;
+    transform: translateX(800px);
+    z-index: -1;
+}
+*
+{
+margin: 0;
+padding:0;
+box-sizing: border-box;
+font-family: 'Montserrat', sans-serif;
+}
+.pro
+{
+  transform: translateY(-320px);
+  margin-left: 150px;
+}
+.c1{
+  transform: translateY(200px);
+
+}
+.c{
+  transform: translateY(-700px)
+  translateX(-100px);
+  z-index:1;
+}
+.img1{
+  z-index:-1;
+  width: 600px;
+  height: 600px;
+  transform: translateY(-200px);
+  opacity: 80%;
+}
+.m{
+  margin-bottom: -20px;
+}
+.f{
+    transform: translateY(500px);
+    margin-left: 80px;
+    font-family: 'Square Peg',;
+    font-size:100px;
+}
+
+.container{
+    transform: translateY(510px);
+    margin-left: 80px;
+ 
+}
+.p1{
+  text-decoration: none;
+  color: pink;
+  transform: translateY(510px);
+  margin-left: 90px;
+}
+  * {  text-decoration: none;}
+  .node{
+    transform: translateX(650px);
+    margin-top: 90px;
+    width: 100px;
+    height: 100px;
+    opacity: 60%;
+  }
+  .react{
+    transform: translatex(540px);
+    margin-top: 290px;
+
+    width: 150px;
+    height: 100px;
+    opacity: 60%;
+  }
+  .h{
+    transform: translatex(490px);
+    margin-top: -580px;
+
+    width: 100px;
+    height: 100px;
+    opacity: 60%;
+  }
+  .css{
+
+      transform: translatex(300px);
+      margin-top: -390px; 
+      width: 100px;
+      height: 100px;
+      opacity: 60%;
+  }
+  .js{
+
+    transform: translateY(260px);
+
+    margin-top: -660px; 
+    width: 100px;
+    height: 100px;
+    opacity: 60%;
+  }
+  .heroku
+  {
+    transform: translatex(-100px);
+    margin-top: 570px;
+
+    width: 100px;
+    height: 100px;
+    opacity: 60%;
+  }
+  .aws{
+    transform: translatex(-70px);
+    margin-top: 900px;
+     margin-bottom: 120px;
+    width: 150px;
+    height: 100px;
+    opacity: 60%;
+  }
+  .figma{
+
+    transform: translatex(450px);
+    margin-top: -580px;
+
+    width: 100px;
+    height: 100px;
+    opacity: 60%;
+}
+.xd{
+
+  transform: translatex(490px);
+    margin-top: -580px;
+
+    width: 100px;
+    height: 100px;
+    opacity: 60%;
+}
+.b{
+  transform: translateX(-900px);
+}
